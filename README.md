@@ -1,4 +1,4 @@
-## Laravel 5.1 Alerts with SweetAlerts
+## Laravel 5.1 Alerts
 
 ### Installation
 
