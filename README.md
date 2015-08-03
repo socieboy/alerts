@@ -11,7 +11,7 @@ Add to your composer.json file the package.
 Update your dependencies
 
 ```
-Composer update
+composer update
 ```
 
 After install this package you have to set the service provider on your config/app.php file
