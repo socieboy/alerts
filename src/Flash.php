@@ -51,7 +51,7 @@ class Flash {
     /**
      * @param        $title
      * @param        $message
-     * @param string $level
+     * @param string $type
      */
     public function overlay($title, $message, $type = 'success')
     {
