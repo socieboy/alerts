@@ -37,7 +37,7 @@ class AlertServiceProvider extends ServiceProvider
 
             __DIR__.'/Libraries/sweetalert.css' => public_path('config/sweetalert.css'),
 
-            __DIR__.'/Libraries/sweetalert.js' => public_path('js/sweetalert.less'),
+            __DIR__.'/Libraries/sweetalert.js' => public_path('js/sweetalert.js'),
 
         ], 'alerts');
     }
