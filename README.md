@@ -38,7 +38,7 @@ Add the JS script before close your \</body\> tag.
 <script src="js/sweetalert.js"></script>
 ```
 
-The last step in to include the alerts view to your master view.
+Include the alerts view to your master view.
 Add this code right after set the JS script file.
 ```
 @include('Alerts::show')
