@@ -59,6 +59,15 @@ alert()->success('Title', 'Message')
 alert()->overlay('Title', 'Message')
 ```
 
+Override the type of overlay
+
+```
+alert()->overlay('Title', 'Message', 'error')
+// success (default)
+// error
+// info
+```
+
 
 #### SweetAlerts website
 
