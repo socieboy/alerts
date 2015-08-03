@@ -33,7 +33,7 @@ Put this style between the \<head\> \</head\> tags
 ```
 <link rel="stylesheet" type="text/css" href="css/sweetalert.css">
 ```
-Add the JS script before close your </body> tag.
+Add the JS script before close your \</body\> tag.
 ```
 <script src="js/sweetalert.js"></script>
 ```
