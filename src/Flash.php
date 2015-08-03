@@ -53,8 +53,8 @@ class Flash {
      * @param        $message
      * @param string $level
      */
-    public function overlay($title, $message, $level = 'success')
+    public function overlay($title, $message, $type = 'success')
     {
-        return $this->create($title, $message, $level, 'sweet_alert_message_overlay');
+        return $this->create($title, $message, $type, 'sweet_alert_message_overlay');
     }
 } 
