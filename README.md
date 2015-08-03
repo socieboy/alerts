@@ -17,7 +17,7 @@ composer update
 After install this package you have to set the service provider on your config/app.php file
 
 ```
-'Socieboy\Alerts\AlertServiceProvider',
+Socieboy\Alerts\AlertServiceProvider::class
 ```
 
 Copy the required assets of SweetAlert to your public folder.
