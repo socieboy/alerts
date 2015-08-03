@@ -60,3 +60,8 @@ alert()->overlay('Title', 'Message')
 ```
 
 
+### Credits to
+
+http://t4t5.github.io/sweetalert/
+
+
