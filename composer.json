@@ -1,0 +1,13 @@
+{
+    "name": "socieboy/alerts",
+    "description": "Laravel Alerts with SweetAlerts",
+    "type": "package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Francisco Sepulveda",
+            "email": "socieboy@gmail.com"
+        }
+    ],
+    "require": {}
+}
