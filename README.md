@@ -24,7 +24,7 @@ Copy the required assets of SweetAlert to your public folder.
 Those assets would be place in the css and js respective directory.
 
 ```
-php artisan vendor:publish --TAG=alerts
+php artisan vendor:publish --tag=alerts
 ```
 
 
