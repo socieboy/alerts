@@ -9,5 +9,12 @@
             "email": "socieboy@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {
+            "Socieboy\\Alerts\\": "/src"
+        }
+    }
 }
