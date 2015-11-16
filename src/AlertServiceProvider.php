@@ -35,9 +35,9 @@ class AlertServiceProvider extends ServiceProvider
     {
         $this->publishes([
 
-            __DIR__.'/Libraries/sweetalert.css' => public_path('css/sweetalert.css'),
+            __DIR__.'/libraries/sweetalert.css' => public_path('css/sweetalert.css'),
 
-            __DIR__.'/Libraries/sweetalert.js' => public_path('js/sweetalert.js'),
+            __DIR__.'/libraries/sweetalert.js' => public_path('js/sweetalert.js'),
 
         ], 'alerts');
     }
